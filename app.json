@@ -1,0 +1,37 @@
+{
+  "id": "2f4d0898-7010-46d0-9858-90dde4c0be57",
+  "name": "ESUN REPORT",
+  "publisher": "Default publisher",
+  "version": "1.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [{
+    "id": "57f11c14-ab15-40e7-ac75-54d6adf1617b",
+    "name": "BC220ESUNTablesOnly",
+    "publisher": "Default publisher",
+    "version": "1.0.0.2"
+  }],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50150,
+      "to": 50299
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
